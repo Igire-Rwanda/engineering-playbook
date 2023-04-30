@@ -20,10 +20,8 @@ Discuss any coding standards that were followed or best practices that were impl
 ## 7.Known issues: 
 If there are any known issues or limitations with the changes made in this PR, include that information so that reviewers are aware.
 
-## 8.Screenshots or visual aids:
+## 8.Screenshots or visual aid:
  If applicable, include screenshots or other visual aids to help reviewers understand the changes being made.
 
 ## 9.Request for review: 
 Clearly request that reviewers review the code changes and provide feedback, and indicate any areas where you are specifically seeking input or guidance.
-
-
